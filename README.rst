@@ -5,7 +5,7 @@ C++Now 2017 Presentations
 |guidelines|_
 
 .. |guidelines| replace:: **Slide Deck Guidelines for Speakers**
-.. _guidelines: SLIDE_DECK_GUIDELINES.rst
+.. _guidelines: SLIDE_DECK_GUIDELINES.md
 
 Tuesday, May 16
 ===============
