@@ -10,7 +10,7 @@ Slide Deck Guidelines
   - `TALK_DATE` should be the date the talk was presented, in the format MM-DD-YYYY.
 - The actual slide deck should be in this repository. No links.
 - Slide decks should be context-free.
-  - Include your name and a way to contact you (e.g. email).
+  - Include your name and a way to contact you (email, twitter, etc).
   - Include the name and year of the conference somewhere in your slide deck.
   - Include links to supplemental presentation materials (example code, referenced documents, etc) in your slide deck.
 - Place your copyright somewhere in your slide deck.
