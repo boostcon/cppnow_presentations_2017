@@ -2,18 +2,21 @@
 C++Now 2017 Presentations
 =========================
 
-**`Slide deck guidelines for presenters <SLIDE_DECK_GUIDELINES.rst>`**
+|guidelines|_
+
+.. |guidelines| replace:: **Slide Deck Guidelines for Speakers**
+.. _guidelines: SLIDE_DECK_GUIDELINES.rst
 
 Tuesday, May 16
 ===============
 
-+=======================+============================+
++-----------------------+----------------------------+
 |                       | Paepcke                    |
 +=======================+============================+
 | Morning (9:00-10:30)  | |tueAM0pae|  |tueAM0paeV|  | 
 +-----------------------+----------------------------+
 
-+=======================+============================+============================+============================+
++-----------------------+----------------------------+----------------------------+----------------------------+
 |                       | Flug                       | Hudson                     | Bethe                      |
 +=======================+============================+============================+============================+
 | Morning (11:00-12:30) | |tueAM2flg|  |tueAM2flgV|  | |tueAM2hud|  |tueAM2hudV|  | |tueAM2bet|  |tueAM2betV|  |
@@ -26,13 +29,13 @@ Tuesday, May 16
 Wednesday, May 17
 =================
 
-+=======================+============================+
++-----------------------+----------------------------+
 |                       | Paepcke                    |
 +=======================+============================+
 | Morning (9:00-10:30)  | |wedAM0pae|  |wedAM0paeV|  | 
 +-----------------------+----------------------------+
 
-+=======================+============================+============================+============================+
++-----------------------+----------------------------+----------------------------+----------------------------+
 |                       | Flug                       | Hudson                     | Bethe                      |
 +=======================+============================+============================+============================+
 | Morning (11:00-12:30) | |wedAM2flg|  |wedAM2flgV|  | |wedAM2hud|  |wedAM2hudV|  | |wedAM2bet|  |wedAM2betV|  |
@@ -47,7 +50,7 @@ Wednesday, May 17
 Thursday, May 18
 ================
 
-+=======================+============================+============================+============================+
++-----------------------+----------------------------+----------------------------+----------------------------+
 |                       | Flug                       | Hudson                     | Bethe                      |
 +=======================+============================+============================+============================+
 | Morning (9:00-9:45)   | |thuAM0flg|  |thuAM0flgV|  | |thuAM0hud|  |thuAM0hudV|  | |thuAM0bet|  |thuAM0betV|  |
@@ -64,13 +67,13 @@ Thursday, May 18
 Friday, May 19
 ==============
 
-+=======================+============================+
++-----------------------+----------------------------+
 |                       | Paepcke                    |
 +=======================+============================+
 | Morning (9:00-10:30)  | |friAM0pae|  |friAM0paeV|  | 
 +-----------------------+----------------------------+
 
-+=======================+============================+============================+============================+
++-----------------------+----------------------------+----------------------------+----------------------------+
 |                       | Flug                       | Hudson                     | Bethe                      |
 +=======================+============================+============================+============================+
 | Morning (11:00-12:30) | |friAM2flg|  |friAM2flgV|  | |friAM2hud|  |friAM2hudV|  | |friAM2bet|  |friAM2betV|  |
@@ -83,7 +86,7 @@ Friday, May 19
 Saturday, May 19
 ================
 
-+=======================+============================+============================+============================+
++-----------------------+----------------------------+----------------------------+----------------------------+
 |                       | Flug                       | Hudson                     | Bethe                      |
 +=======================+============================+============================+============================+
 | Morning (8:45-10:15)  | |satAM0flg|  |satAM0flgV|  | |satAM0hud|  |satAM0hudV|  | |satAM0bet|  |satAM0betV|  |
@@ -109,7 +112,7 @@ Saturday, May 19
 .. _tuePM0flg: 
 .. |tuePM0flgV| replace:: (video)
 .. _tuePM0flgV:    
-.. |tuePM2flg| replace:: constexpr ALL the things!, *Ben Deane and Jason Turner*
+.. |tuePM2flg| replace:: ``constexpr`` ALL the things!, *Ben Deane and Jason Turner*
 .. _tuePM2flg: 
 .. |tuePM2flgV| replace:: (video)
 .. _tuePM2flgV:    
@@ -125,7 +128,7 @@ Saturday, May 19
 .. _tuePM2hud: 
 .. |tuePM2hudV| replace:: (video)
 .. _tuePM2hudV:  
-.. |tueAM2bet| replace:: C++11’s Quiet Little Gem: <system_error>, *Charles Bay*
+.. |tueAM2bet| replace:: C++11’s Quiet Little Gem: ``<system_error>``, *Charles Bay*
 .. _tueAM2bet: 
 .. |tueAM2betV| replace:: (video)
 .. _tueAM2betV: 
@@ -159,7 +162,7 @@ Saturday, May 19
 .. _wedPM3flg: 
 .. |wedPM3flgV| replace:: (video)
 .. _wedPM3flgV:    
-.. |wedAM2hud| replace:: A vision for C++20 and std2 (part 1 of 3), *Alisdair Meredith*
+.. |wedAM2hud| replace:: A vision for C++20 and ``std2`` (part 1 of 3), *Alisdair Meredith*
 .. _wedAM2hud: 
 .. |wedAM2hudV| replace:: (video)
 .. _wedAM2hudV:  
@@ -213,7 +216,7 @@ Saturday, May 19
 .. _thuAM1hud: 
 .. |thuAM1hudV| replace:: (video)
 .. _thuAM1hudV:  
-.. |thuAM2hud| replace:: A vision for C++20 and std2 (part 2 of 3), *Alisdair Meredith*
+.. |thuAM2hud| replace:: A vision for C++20 and ``std2`` (part 2 of 3), *Alisdair Meredith*
 .. _thuAM2hud: 
 .. |thuAM2hudV| replace:: (video)
 .. _thuAM2hudV:  
@@ -233,7 +236,7 @@ Saturday, May 19
 .. _thuAM2bet: 
 .. |thuAM2betV| replace:: (video)
 .. _thuAM2betV: 
-.. |thuPM0bet| replace:: Implementing `variant` visitation using lambdas, *Vittorio Romeo*
+.. |thuPM0bet| replace:: Implementing ``variant`` visitation using lambdas, *Vittorio Romeo*
 .. _thuPM0bet: 
 .. |thuPM0betV| replace:: (video)
 .. _thuPM0betV: 
@@ -251,7 +254,7 @@ Saturday, May 19
 .. _friAM2flg: 
 .. |friAM2flgV| replace:: (video)
 .. _friAM2flgV:    
-.. |friPM0flg| replace:: The 'Detection idiom:' A Better Way to SFINAE, *Marshall Clow*
+.. |friPM0flg| replace:: The 'Detection Idiom:' A Better Way to SFINAE, *Marshall Clow*
 .. _friPM0flg: 
 .. |friPM0flgV| replace:: (video)
 .. _friPM0flgV:    
@@ -271,11 +274,11 @@ Saturday, May 19
 .. _friPM2hud: 
 .. |friPM2hudV| replace:: (video)
 .. _friPM2hudV:  
-.. |friAM2bet| replace:: A vision for C++20 and std2 (part 3 of 3), *Alisdair Meredith*
+.. |friAM2bet| replace:: A vision for C++20 and ``std2`` (part 3 of 3), *Alisdair Meredith*
 .. _friAM2bet: 
 .. |friAM2betV| replace:: (video)
 .. _friAM2betV: 
-.. |friPM0bet| replace:: No raw std::thread! - Live Tweet Analysis in C++, *Kirk Shoop*
+.. |friPM0bet| replace:: No raw ``std::thread``! - Live Tweet Analysis in C++, *Kirk Shoop*
 .. _friPM0bet: 
 .. |friPM0betV| replace:: (video)
 .. _friPM0betV: 
