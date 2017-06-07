@@ -89,7 +89,7 @@ Saturday, May 19
 +-----------------------+----------------------------+----------------------------+----------------------------+
 |                       | Flug                       | Hudson                     | Bethe                      |
 +=======================+============================+============================+============================+
-| Morning (8:45-10:15)  | |satAM0flg|_ |satAM0flgV|  | |satAM0hud|_ |satAM0hudV|  | |satAM0bet|  |satAM0betV|  |
+| Morning (8:45-10:15)  | |satAM0flg|_ |satAM0flgV|  | |satAM0hud|_ |satAM0hudV|  | |satAM0bet|_ |satAM0betV|  |
 +-----------------------+----------------------------+----------------------------+----------------------------+
 | Morning (10:45-11:30) | |satAM2flg|_ |satAM2flgV|  | |satAM2hud|_ |satAM2hudV|  | |satAM2bet|_ |satAM2betV|  |
 +-----------------------+----------------------------+----------------------------+----------------------------+
@@ -305,7 +305,7 @@ Saturday, May 19
 .. |satAM2hudV| replace:: (video)
 .. _satAM2hudV:  
 .. |satAM0bet| replace:: CHAP: A memory analyzer for un-instrumented cores, *Tim Boddy*
-.. _satAM0bet: 
+.. _satAM0bet: 05-20-2017_saturday/chap_a_memory_analyzer_for_un_instrumented_cores__tim_boddy__cppnow_05-20-2017.pdf
 .. |satAM0betV| replace:: (video)
 .. _satAM0betV: 
 .. |satAM2bet| replace:: Nbdl: Generic Library for Managing State Seamlessly Across Network, *Jason Rice*
