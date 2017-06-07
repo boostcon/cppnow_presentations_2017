@@ -53,15 +53,15 @@ Thursday, May 18
 +-----------------------+----------------------------+----------------------------+----------------------------+
 |                       | Flug                       | Hudson                     | Bethe                      |
 +=======================+============================+============================+============================+
-| Morning (9:00-9:45)   | |thuAM0flg|  |thuAM0flgV|  | |thuAM0hud|  |thuAM0hudV|  | |thuAM0bet|  |thuAM0betV|  |
+| Morning (9:00-9:45)   | |thuAM0flg|_ |thuAM0flgV|  | |thuAM0hud|_ |thuAM0hudV|  | |thuAM0bet|  |thuAM0betV|  |
 +-----------------------+                            +----------------------------+                            |
-| Morning (9:45-10:30)  |                            | |thuAM1hud|  |thuAM1hudV|  |                            |
+| Morning (9:45-10:30)  |                            | |thuAM1hud|_ |thuAM1hudV|  |                            |
 +-----------------------+----------------------------+----------------------------+----------------------------+
-| Morning (11:00-12:30) | |thuAM2flg|  |thuAM2flgV|  | |thuAM2hud|  |thuAM2hudV|  | |thuAM2bet|  |thuAM2betV|  |
+| Morning (11:00-12:30) | |thuAM2flg|_ |thuAM2flgV|  | |thuAM2hud|_ |thuAM2hudV|  | |thuAM2bet|_ |thuAM2betV|  |
 +-----------------------+----------------------------+----------------------------+----------------------------+
-| Afternoon (2:30-4:00) | |thuPM0flg|  |thuPM0flgV|  | |thuPM0hud|  |thuPM0hudV|  | |thuPM0bet|  |thuPM0betV|  |
+| Afternoon (2:30-4:00) | |thuPM0flg|_ |thuPM0flgV|  | |thuPM0hud|_ |thuPM0hudV|  | |thuPM0bet|_ |thuPM0betV|  |
 +-----------------------+----------------------------+----------------------------+----------------------------+
-| Afternoon (4:30-6:00) | |thuPM2flg|  |thuPM2flgV|  | |thuPM2hud|  |thuPM2hudV|  | |thuPM2bet|  |thuPM2betV|  |
+| Afternoon (4:30-6:00) | |thuPM2flg|_ |thuPM2flgV|  | |thuPM2hud|_ |thuPM2hudV|  | |thuPM2bet|_ |thuPM2betV|  |
 +-----------------------+----------------------------+----------------------------+----------------------------+
 
 Friday, May 19
@@ -70,17 +70,17 @@ Friday, May 19
 +-----------------------+----------------------------+
 |                       | Paepcke                    |
 +=======================+============================+
-| Morning (9:00-10:30)  | |friAM0pae|  |friAM0paeV|  | 
+| Morning (9:00-10:30)  | |friAM0pae|_ |friAM0paeV|  | 
 +-----------------------+----------------------------+
 
 +-----------------------+----------------------------+----------------------------+----------------------------+
 |                       | Flug                       | Hudson                     | Bethe                      |
 +=======================+============================+============================+============================+
-| Morning (11:00-12:30) | |friAM2flg|  |friAM2flgV|  | |friAM2hud|  |friAM2hudV|  | |friAM2bet|  |friAM2betV|  |
+| Morning (11:00-12:30) | |friAM2flg|_ |friAM2flgV|  | |friAM2hud|_ |friAM2hudV|  | |friAM2bet|  |friAM2betV|  |
 +-----------------------+----------------------------+----------------------------+----------------------------+
-| Afternoon (2:30-4:00) | |friPM0flg|  |friPM0flgV|  | |friPM0hud|  |friPM0hudV|  | |friPM0bet|  |friPM0betV|  |
+| Afternoon (2:30-4:00) | |friPM0flg|  |friPM0flgV|  | |friPM0hud|_ |friPM0hudV|  | |friPM0bet|_ |friPM0betV|  |
 +-----------------------+----------------------------+----------------------------+----------------------------+
-| Afternoon (4:30-6:00) | |friPM2flg|  |friPM2flgV|  | |friPM2hud|  |friPM2hudV|  | |friPM2bet|  |friPM2betV|  |
+| Afternoon (4:30-6:00) | |friPM2flg|_ |friPM2flgV|  | |friPM2hud|  |friPM2hudV|  | |friPM2bet|_ |friPM2betV|  |
 +-----------------------+----------------------------+----------------------------+----------------------------+
 
 Saturday, May 19
@@ -89,9 +89,9 @@ Saturday, May 19
 +-----------------------+----------------------------+----------------------------+----------------------------+
 |                       | Flug                       | Hudson                     | Bethe                      |
 +=======================+============================+============================+============================+
-| Morning (8:45-10:15)  | |satAM0flg|  |satAM0flgV|  | |satAM0hud|  |satAM0hudV|  | |satAM0bet|  |satAM0betV|  |
+| Morning (8:45-10:15)  | |satAM0flg|_ |satAM0flgV|  | |satAM0hud|_ |satAM0hudV|  | |satAM0bet|  |satAM0betV|  |
 +-----------------------+----------------------------+----------------------------+----------------------------+
-| Morning (10:45-11:30) | |satAM2flg|  |satAM2flgV|  | |satAM2hud|  |satAM2hudV|  | |satAM2bet|  |satAM2betV|  |
+| Morning (10:45-11:30) | |satAM2flg|_ |satAM2flgV|  | |satAM2hud|_ |satAM2hudV|  | |satAM2bet|_ |satAM2betV|  |
 +-----------------------+----------------------------+----------------------------+----------------------------+
 
 .. .. |tag| replace:: Talk Title, *Test*
@@ -193,39 +193,39 @@ Saturday, May 19
 
 .. Thursday, May 18
 .. |thuAM0flg| replace:: Call: A Library that Will Change the Way You Think about Function Invocations (part 1 of 2), *Matt Calabrese*
-.. _thuAM0flg: 
+.. _thuAM0flg: 05-18-2017_thursday/call_a_library_that_will_change_the_way_you_think_about_function_invocations__matt_calabrese__cppnow_05-18-2017.pdf
 .. |thuAM0flgV| replace:: (video)
 .. _thuAM0flgV:    
 .. |thuAM2flg| replace:: Call: A Library that Will Change the Way You Think about Function Invocations (part 2 of 2), *Matt Calabrese*
-.. _thuAM2flg: 
+.. _thuAM2flg: 05-18-2017_thursday/call_a_library_that_will_change_the_way_you_think_about_function_invocations__matt_calabrese__cppnow_05-18-2017.pdf
 .. |thuAM2flgV| replace:: (video)
 .. _thuAM2flgV:    
 .. |thuPM0flg| replace:: Postmodern C++, *Tony Van Eerd*
-.. _thuPM0flg: 
+.. _thuPM0flg: 05-18-2017_thursday/postmodern_cpp__tony_van_eerd__cppnow_05-18-2017.pdf
 .. |thuPM0flgV| replace:: (video)
 .. _thuPM0flgV:    
 .. |thuPM2flg| replace:: Promises in C++: The Universal Glue for Asynchronous Programs, *David Sankel*
-.. _thuPM2flg: 
+.. _thuPM2flg: 05-18-2017_thursday/promises_in_cpp_the_universal_glue_for_asynchronous_programs__david_sankel__cppnow_05-18-2017.pdf
 .. |thuPM2flgV| replace:: (video)
 .. _thuPM2flgV:    
 .. |thuAM0hud| replace:: A look at C++ through the glasses of a language tool, *Anastasia Kazakova*
-.. _thuAM0hud: 
+.. _thuAM0hud: 05-18-2017_thursday/a_look_at_cpp_through_the_glasses_of_a_language_tool__anastasia_kazakova__cppnow_05-18-2017.pdf
 .. |thuAM0hudV| replace:: (video)
 .. _thuAM0hudV:  
 .. |thuAM1hud| replace:: Boost vs Qt: What Could They Learn From Each Other?, *Jens Weller*
-.. _thuAM1hud: 
+.. _thuAM1hud: 05-18-2017_thursday/boost_vs_qt_what_could_they_learn_from_each_other__jens_weller__cppnow_05-18-2017.pdf
 .. |thuAM1hudV| replace:: (video)
 .. _thuAM1hudV:  
 .. |thuAM2hud| replace:: A vision for C++20 and ``std2`` (part 2 of 3), *Alisdair Meredith*
-.. _thuAM2hud: 
+.. _thuAM2hud: std2_workshop/cpp20_language_features_for_std2__alisdair_meredith__cppnow_05-18-2017.pdf
 .. |thuAM2hudV| replace:: (video)
 .. _thuAM2hudV:  
 .. |thuPM0hud| replace:: Practical (?) Applications of Reflection, *Jackie Kay*
-.. _thuPM0hud: 
+.. _thuPM0hud: 05-18-2017_thursday/practical_applications_of_reflection__jackie_kay__cppnow_05-18-2017.pdf
 .. |thuPM0hudV| replace:: (video)
 .. _thuPM0hudV:  
 .. |thuPM2hud| replace:: Towards Painless Testing, *Kris Jusiak*
-.. _thuPM2hud: 
+.. _thuPM2hud: 05-18-2017_thursday/towards_painless_testing__kris_jusiak__cppnow_05-18-2017.pdf
 .. |thuPM2hudV| replace:: (video)
 .. _thuPM2hudV:  
 .. |thuAM0bet| replace:: Sorting in less than O(n log n): Generalizing and optimizing radix sort, *Malte Skarupke*
@@ -233,41 +233,41 @@ Saturday, May 19
 .. |thuAM0betV| replace:: (video)
 .. _thuAM0betV: 
 .. |thuAM2bet| replace:: Parallel Programming with RaftLib: streaming/data-flow concurrency via concise C++ iostream-like operators, *Jonathan Beard*
-.. _thuAM2bet: 
+.. _thuAM2bet: 05-18-2017_thursday/parallel_programming_with_raftlib_streaming_and_dataflow_concurrency_via_concise_cpp_iostream_like_operators__jonathan_beard__cppnow_05-18-2017.pdf
 .. |thuAM2betV| replace:: (video)
 .. _thuAM2betV: 
 .. |thuPM0bet| replace:: Implementing ``variant`` visitation using lambdas, *Vittorio Romeo*
-.. _thuPM0bet: 
+.. _thuPM0bet: 05-18-2017_thursday/implementing_variant_visition_using_lambdas__vittorio_romeo__cppnow_05-18-2017.pdf
 .. |thuPM0betV| replace:: (video)
 .. _thuPM0betV: 
 .. |thuPM2bet| replace:: Testing the Limits of Allocator Awareness, *Bob Steagall*
-.. _thuPM2bet: 
+.. _thuPM2bet: 05-18-2017_thursday/testing_the_limits_of_allocator_awareness__bob_steagall__cppnow_05-18-2017.pdf
 .. |thuPM2betV| replace:: (video)
 .. _thuPM2betV:   
 
 .. Friday, May 19
 .. |friAM0pae| replace:: Competitive Advantage with D, *Ali Çehreli*
-.. _friAM0pae: 
+.. _friAM0pae: 05-19-2017_friday/competitive_advantage_with_d__ali_cehreli__cppnow_05-19-2017.pdf
 .. |friAM0paeV| replace:: (video)
 .. _friAM0paeV: 
 .. |friAM2flg| replace:: Effective CMake, *Daniel Pfeifer*
-.. _friAM2flg: 
+.. _friAM2flg: 05-19-2017_friday/effective_cmake__daniel_pfeifer__cppnow_05-19-2017.pdf
 .. |friAM2flgV| replace:: (video)
 .. _friAM2flgV:    
 .. |friPM0flg| replace:: The 'Detection Idiom:' A Better Way to SFINAE, *Marshall Clow*
-.. _friPM0flg: 
+.. _friPM0flg: 05-19-2017_friday/the_detection_idiom_a_better_way_to_sfinae__marshall_clow__cppnow_05-19-2017.pdf 
 .. |friPM0flgV| replace:: (video)
 .. _friPM0flgV:    
 .. |friPM2flg| replace:: C++ Core Guidelines - Modernize your C++ Code Base, *Peter Sommerlad*
-.. _friPM2flg: 
+.. _friPM2flg: 05-19-2017_friday/cpp_core_guidelines_modernize_your_cpp_code_base__peter_sommerlad__cppnow_05-19-2017.pdf
 .. |friPM2flgV| replace:: (video)
 .. _friPM2flgV:    
 .. |friAM2hud| replace:: Restoring Your Sanity: An Approach to Dealing with Reference Types in the Generic Programming Paradigm, *Matt Calabrese*
-.. _friAM2hud: 
+.. _friAM2hud: 05-19-2017_friday/restoring_your_sanity_an_approach_to_dealing_with_reference_types_in_the_generic_programming_paradigm__matt_calabrese__cppnow_05-19-2017.pdf
 .. |friAM2hudV| replace:: (video)
 .. _friAM2hudV:  
 .. |friPM0hud| replace:: Locally Atomic Capabilities and How to Count Them, *Lisa Lippincott*
-.. _friPM0hud: 
+.. _friPM0hud: 05-19-2017_friday/locally_atomic_capabilities_and_how_to_count_them__lisa_lippincott__cppnow_05-19-2017.pdf
 .. |friPM0hudV| replace:: (video)
 .. _friPM0hudV:  
 .. |friPM2hud| replace:: The Holy Grail - A Hash Array Mapped Trie for C++, *Phil Nash*
@@ -279,29 +279,29 @@ Saturday, May 19
 .. |friAM2betV| replace:: (video)
 .. _friAM2betV: 
 .. |friPM0bet| replace:: No raw ``std::thread``! - Live Tweet Analysis in C++, *Kirk Shoop*
-.. _friPM0bet: 
+.. _friPM0bet: 05-19-2017_friday/no_raw_std_thread_live_tweet_analysis_in_cpp__kirk_shoop__cppnow_05-19-2017.pdf
 .. |friPM0betV| replace:: (video)
 .. _friPM0betV: 
 .. |friPM2bet| replace:: Customization Points That Suck Less, *Michał Dominiak*
-.. _friPM2bet: 
+.. _friPM2bet: 05-19-2017_friday/customization_points_that_such_less__michal_dominiak__cppnow_05-19-2017.pdf
 .. |friPM2betV| replace:: (video)
 .. _friPM2betV:   
 
 .. Saturday, May 20
 .. |satAM0flg| replace:: clang-useful: Building useful tools with LLVM and clang for fun and profit, *Peter Goldsborough*
-.. _satAM0flg: 
+.. _satAM0flg: 05-20-2017_saturday/clang_useful_building_useful_tools_with_llvm_and_clang_for_fun_and_profit__peter_goldsborough__cppnow_05-20-2017.pdf
 .. |satAM0flgV| replace:: (video)
 .. _satAM0flgV:    
 .. |satAM2flg| replace:: Performance analysis and optimization of C++ standard libraries, *Aditya Kumar and Sebastian Pop*
-.. _satAM2flg: 
+.. _satAM2flg: 05-20-2017_saturday/performance_analysis_and_optimization_of_cpp_standard_libraries__aditya_kumar_and_sebastian_pop__cppnow_05-20-2017.pdf
 .. |satAM2flgV| replace:: (video)
 .. _satAM2flgV:    
 .. |satAM0hud| replace:: Type-safe Programming, *Jonathan Müller*
-.. _satAM0hud: 
+.. _satAM0hud: 05-20-2017_saturday/type_safe_programming__jonathan_muller__cppnow_05-20-2017.pdf
 .. |satAM0hudV| replace:: (video)
 .. _satAM0hudV:  
 .. |satAM2hud| replace:: The Lesser-Known Multicore Synchronization Primitives, *Samy Bahra*
-.. _satAM2hud: 
+.. _satAM2hud: 05-20-2017_saturday/the_lesser_known_multicore_synchronization_primitives__samy_bahra__cppnow_05-20-2017.pdf
 .. |satAM2hudV| replace:: (video)
 .. _satAM2hudV:  
 .. |satAM0bet| replace:: CHAP: A memory analyzer for un-instrumented cores, *Tim Boddy*
@@ -309,7 +309,8 @@ Saturday, May 19
 .. |satAM0betV| replace:: (video)
 .. _satAM0betV: 
 .. |satAM2bet| replace:: Nbdl: Generic Library for Managing State Seamlessly Across Network, *Jason Rice*
-.. _satAM2bet: 
+.. _satAM2bet: 05-20-2017_saturday/nbdl_generic_library_for_managing_state_seamlessly_across_network__jason_rice__cppnow_05-20-2017.pdf
 .. |satAM2betV| replace:: (video)
 .. _satAM2betV: 
+
 
