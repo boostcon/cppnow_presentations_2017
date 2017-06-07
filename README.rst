@@ -19,11 +19,11 @@ Tuesday, May 16
 +-----------------------+----------------------------+----------------------------+----------------------------+
 |                       | Flug                       | Hudson                     | Bethe                      |
 +=======================+============================+============================+============================+
-| Morning (11:00-12:30) | |tueAM2flg|  |tueAM2flgV|  | |tueAM2hud|  |tueAM2hudV|  | |tueAM2bet|  |tueAM2betV|  |
+| Morning (11:00-12:30) | |tueAM2flg|_ |tueAM2flgV|  | |tueAM2hud|_ |tueAM2hudV|  | |tueAM2bet|  |tueAM2betV|  |
 +-----------------------+----------------------------+----------------------------+----------------------------+
 | Afternoon (2:30-4:00) | |tuePM0flg|  |tuePM0flgV|  | |tuePM0hud|  |tuePM0hudV|  | |tuePM0bet|  |tuePM0betV|  |
 +-----------------------+----------------------------+----------------------------+----------------------------+
-| Afternoon (4:30-6:00) | |tuePM2flg|  |tuePM2flgV|  | |tuePM2hud|  |tuePM2hudV|  | |tuePM2bet|  |tuePM2betV|  |
+| Afternoon (4:30-6:00) | |tuePM2flg|_ |tuePM2flgV|  | |tuePM2hud|  |tuePM2hudV|  | |tuePM2bet|_ |tuePM2betV|  |
 +-----------------------+----------------------------+----------------------------+----------------------------+
 
 Wednesday, May 17
@@ -38,13 +38,13 @@ Wednesday, May 17
 +-----------------------+----------------------------+----------------------------+----------------------------+
 |                       | Flug                       | Hudson                     | Bethe                      |
 +=======================+============================+============================+============================+
-| Morning (11:00-12:30) | |wedAM2flg|  |wedAM2flgV|  | |wedAM2hud|  |wedAM2hudV|  | |wedAM2bet|  |wedAM2betV|  |
+| Morning (11:00-12:30) | |wedAM2flg|_ |wedAM2flgV|  | |wedAM2hud|_ |wedAM2hudV|  | |wedAM2bet|_ |wedAM2betV|  |
 +-----------------------+----------------------------+----------------------------+----------------------------+
-| Afternoon (2:30-4:00) | |wedPM0flg|  |wedPM0flgV|  | |wedPM0hud|  |wedPM0hudV|  | |wedPM0bet|  |wedPM0betV|  |
+| Afternoon (2:30-4:00) | |wedPM0flg|_ |wedPM0flgV|  | |wedPM0hud|_ |wedPM0hudV|  | |wedPM0bet|_ |wedPM0betV|  |
 +-----------------------+----------------------------+----------------------------+----------------------------+
-| Afternoon (4:30-5:15) | |wedPM2flg|  |wedPM2flgV|  | |wedPM2hud|  |wedPM2hudV|  | |wedPM2bet|  |wedPM2betV|  |
+| Afternoon (4:30-5:15) | |wedPM2flg|  |wedPM2flgV|  | |wedPM2hud|_ |wedPM2hudV|  | |wedPM2bet|_ |wedPM2betV|  |
 +-----------------------+----------------------------+----------------------------+                            |
-| Afternoon (5:15-6:00) | |wedPM3flg|  |wedPM3flgV|  | |wedPM3hud|  |wedPM3hudV|  |                            |
+| Afternoon (5:15-6:00) | |wedPM3flg|_ |wedPM3flgV|  | |wedPM3hud|  |wedPM3hudV|  |                            |
 +-----------------------+----------------------------+----------------------------+----------------------------+
 
 Thursday, May 18
@@ -105,7 +105,7 @@ Saturday, May 19
 .. |tueAM0paeV| replace:: (video)
 .. _tueAM0paeV: 
 .. |tueAM2flg| replace:: C++17 Features, *Bryce Adelstein Lelbach*
-.. _tueAM2flg: 
+.. _tueAM2flg: 05-16-2017_tuesday/cpp17_features__bryce_adelstein_lelbach__cppnow_05-16-2017.pdf
 .. |tueAM2flgV| replace:: (video)
 .. _tueAM2flgV:    
 .. |tuePM0flg| replace:: Expression Templates Everywhere with C++14 and Yap, *Zach Laine*
@@ -113,11 +113,11 @@ Saturday, May 19
 .. |tuePM0flgV| replace:: (video)
 .. _tuePM0flgV:    
 .. |tuePM2flg| replace:: ``constexpr`` ALL the things!, *Ben Deane and Jason Turner*
-.. _tuePM2flg: 
+.. _tuePM2flg: 05-16-2017_tuesday/constexpr_all_the_things__ben_deane_and_jason_turner__cppnow_05-16-2017.pdf
 .. |tuePM2flgV| replace:: (video)
 .. _tuePM2flgV:    
 .. |tueAM2hud| replace:: Rethinking Strings, *Mark Zeren*
-.. _tueAM2hud: 
+.. _tueAM2hud: 05-16-2017_tuesday/rethinking_strings__mark_zeren__cppnow_05-16-2017.pdf
 .. |tueAM2hudV| replace:: (video)
 .. _tueAM2hudV:  
 .. |tuePM0hud| replace:: Networking TS Workshop (part 1 of 2), *Michael Caisse*
@@ -137,7 +137,7 @@ Saturday, May 19
 .. |tuePM0betV| replace:: (video)
 .. _tuePM0betV: 
 .. |tuePM2bet| replace:: Containers & Strings: Why the Implementation Matters, *Barbara Geller and Ansel Sermersheim*
-.. _tuePM2bet: 
+.. _tuePM2bet: 05-16-2017_tuesday/containers_and_strings_why_the_implementation_matters__barbara_geller_and_ansel_sermersheim__cppnow_05-16-2017.pdf
 .. |tuePM2betV| replace:: (video)
 .. _tuePM2betV:   
 
@@ -147,11 +147,11 @@ Saturday, May 19
 .. |wedAM0paeV| replace:: (video)
 .. _wedAM0paeV: 
 .. |wedAM2flg| replace:: (Ab)using C++17, *Jason Turner*
-.. _wedAM2flg: 
+.. _wedAM2flg: 05-17-2017_wednesday/abusing_cpp17__jason_turner__cppnow_05-17-2017.pdf
 .. |wedAM2flgV| replace:: (video)
 .. _wedAM2flgV:    
 .. |wedPM0flg| replace:: Good FIFOs Make Good Thread Neighbors, *Jonathan Beard*
-.. _wedPM0flg: 
+.. _wedPM0flg: 05-17-2017_wednesday/good_fifos_make_good_thread_neighbors__jonathan_beard__cppnow_05-17-2017.pdf
 .. |wedPM0flgV| replace:: (video)
 .. _wedPM0flgV:    
 .. |wedPM2flg| replace:: Postmodern Immutable Data Structures, *Juan Pedro Bolivar Puente*
@@ -159,19 +159,19 @@ Saturday, May 19
 .. |wedPM2flgV| replace:: (video)
 .. _wedPM2flgV:    
 .. |wedPM3flg| replace:: Type Based Template Metaprogramming is Not Dead, *Odin Holmes*
-.. _wedPM3flg: 
+.. _wedPM3flg: 05-17-2017_wednesday/type_based_template_metaprogramming_is_not_dead__odin_holmes__cppnow_05-17-2017.pdf
 .. |wedPM3flgV| replace:: (video)
 .. _wedPM3flgV:    
 .. |wedAM2hud| replace:: A vision for C++20 and ``std2`` (part 1 of 3), *Alisdair Meredith*
-.. _wedAM2hud: 
+.. _wedAM2hud: 05-17-2017_wednesday/type_based_template_metaprogramming_is_not_dead__odin_holmes__cppnow_05-17-2017.pdf
 .. |wedAM2hudV| replace:: (video)
 .. _wedAM2hudV:  
 .. |wedPM0hud| replace:: Fun with Boost.Hana, *Louis Dionne*
-.. _wedPM0hud: 
+.. _wedPM0hud: 05-17-2017_wednesday/fun_with_boost_hana__louis_dionne__cppnow_05-17-2017.pdf
 .. |wedPM0hudV| replace:: (video)
 .. _wedPM0hudV:  
 .. |wedPM2hud| replace:: Composite Arithmetic Types Are > the + of Their Parts, *John McFarlane*
-.. _wedPM2hud: 
+.. _wedPM2hud: 05-17-2017_wednesday/composite_arithmetic_types_are_greater_than_the_sum_of_their_parts__john_mcfarlane__cppnow_05-17-2017.pdf
 .. |wedPM2hudV| replace:: (video)
 .. _wedPM2hudV:  
 .. |wedPM3hud| replace:: An easy to use RPC framework implemented in C++11/14, *Yu Qi*
@@ -179,15 +179,15 @@ Saturday, May 19
 .. |wedPM3hudV| replace:: (video)
 .. _wedPM3hudV:  
 .. |wedAM2bet| replace:: Mocking C++ (full-length version), *Peter Bindels*
-.. _wedAM2bet: 
+.. _wedAM2bet: 05-17-2017_wednesday/mocking_cpp_full_length_version__peter_bindels__cppnow_05-17-2017.pdf
 .. |wedAM2betV| replace:: (video)
 .. _wedAM2betV: 
 .. |wedPM0bet| replace:: The Mathematical Underpinnings of Promises in C++, *David Sankel*
-.. _wedPM0bet: 
+.. _wedPM0bet: 05-17-2017_wednesday/the_mathematical_underpinnings_of_promises_in_cpp__david_sankel__cppnow_05-17-2017.pdf
 .. |wedPM0betV| replace:: (video)
 .. _wedPM0betV: 
 .. |wedPM2bet| replace:: Multithreading Using Lockless Lists and RCU, *Ansel Sermersheim*
-.. _wedPM2bet: 
+.. _wedPM2bet: 05-17-2017_wednesday/multithreading_using_lockless_lists_and_rcu__ansel_sermersheim__cppnow_05-17-2017.pdf
 .. |wedPM2betV| replace:: (video)
 .. _wedPM2betV:   
 
