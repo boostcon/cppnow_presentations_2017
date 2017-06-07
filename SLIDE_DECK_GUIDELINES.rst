@@ -3,7 +3,7 @@ Slide Deck Guidelines
 =====================
 
 - Slide decks should be in the PDF format.
-- Slide deck file names should follow this format: TALK_TITLE__SPEAKER_NAME__cppnow_TALK_DATE.pdf.
+- Slide deck file names should follow this format: `TALK_TITLE__SPEAKER_NAME__cppnow_TALK_DATE.pdf`.
   - TALK_TITLE should be the title of the talk, restricted to lowercase alphanumeric characters and _.
     - C++ should be escaped as cpp.
   - SPEAKER_NAME should be the name of the speaker (first name, middle name(s) and last name in that order), restricted to lowercase alphanumeric characters and _.
