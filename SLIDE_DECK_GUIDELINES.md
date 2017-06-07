@@ -1,7 +1,8 @@
 Slide Deck Guidelines
 =====================
 
-- Slide decks should be in the [PDF/A format](https://en.wikipedia.org/wiki/PDF/A)  with fonts embedded.
+- Slide decks should be in the [PDF/A format](https://en.wikipedia.org/wiki/PDF/A) with fonts embedded.
+- Slide decks should be less than 30 MB.
 - Slide deck file names should follow this format: `TALK_TITLE__SPEAKER_NAME__cppnow_TALK_DATE.pdf`.
   - `TALK_TITLE` should be the title of the talk, restricted to lowercase alphanumeric characters and `_`.
     - `C++` should be escaped as `cpp`.
