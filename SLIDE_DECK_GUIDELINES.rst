@@ -2,15 +2,12 @@
 Slide Deck Guidelines
 =====================
 
-.. role:: raw-html(raw)
-   :format: html
-
 - Slide decks should be in the PDF format.
-- Slide deck file names should follow this format: :raw-html:`<code><i>TALK_TITLE</i>__<i>SPEAKER_NAME</i>__cppnow_<i>TALK_DATE</i>.pdf</code>`
-    - :raw-html:`<code><i>TALK_TITLE</i></code>` should be the title of the talk, restricted to lowercase alphanumeric characters and `_`.
+- Slide deck file names should follow this format: ``TALK_TITLE__SPEAKER_NAME__cppnow_TALK_DATE.pdf``
+    - ``TALK_TITLE`` should be the title of the talk, restricted to lowercase alphanumeric characters and ``_``.
         - ``C++`` should be escaped as ``cpp``.
-    - :raw-html:`<code><i>SPEAKER_NAME</i></code>` should be the name of the speaker (first name, middle name(s) and last name in that order), restricted to lowercase alphanumeric characters and `_`.
-    - :raw-html:`<code><i>TALK_DATE</i></code>` should be the date the talk was presented, in the format `MM-DD-YYYY`.
+    - ``SPEAKER_NAME``` should be the name of the speaker (first name, middle name(s) and last name in that order), restricted to lowercase alphanumeric characters and ``_``.
+    - ``TALK_DATE`` should be the date the talk was presented, in the format ``MM-DD-YYYY``.
 - The actual slide deck should be in this repository. No links.
 - Slide decks should be context-free.
     - Include your name and a way to contact you (e.g. email).
