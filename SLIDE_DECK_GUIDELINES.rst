@@ -6,7 +6,7 @@ Slide Deck Guidelines
    :format: html
 
 - Slide decks should be in the PDF format.
-- Slide deck file names should follow this format: :raw-html:`<code><i>TALK_TITLE</i>__<i>SPEAKER_NAME</i>__cppnow_<i>TALK_DATE</i>.pdf``
+- Slide deck file names should follow this format: :raw-html:`<code><i>TALK_TITLE</i>__<i>SPEAKER_NAME</i>__cppnow_<i>TALK_DATE</i>.pdf</code>`
     - :raw-html:`<code><i>TALK_TITLE</i></code>` should be the title of the talk, restricted to lowercase alphanumeric characters and `_`.
         - ``C++`` should be escaped as ``cpp``.
     - :raw-html:`<code><i>SPEAKER_NAME</i></code>` should be the name of the speaker (first name, middle name(s) and last name in that order), restricted to lowercase alphanumeric characters and `_`.
