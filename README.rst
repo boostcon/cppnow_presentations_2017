@@ -271,9 +271,9 @@ Saturday, May 19
 .. |friPM0hudV| replace:: (video)
 .. _friPM0hudV:  
 .. |friPM2hud| replace:: The Holy Grail - A Hash Array Mapped Trie for C++, *Phil Nash*
-.. _friPM2hud: 
+.. _friPM2hud: 05-19-2017_friday/a_persistent_hash_array_mapped_trie_for_cpp__phil_nash__cppnow_05-19-2017
 .. |friPM2hudV| replace:: (video)
-.. _friPM2hudV:  
+.. _friPM2hudV: https://www.youtube.com/watch?v=WT9kmIE3Uis
 .. |friAM2bet| replace:: A vision for C++20 and ``std2`` (part 3 of 3), *Alisdair Meredith*
 .. _friAM2bet: 
 .. |friAM2betV| replace:: (video)
