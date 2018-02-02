@@ -153,7 +153,7 @@ Saturday, May 19
 .. |wedPM0flg| replace:: Good FIFOs Make Good Thread Neighbors, *Jonathan Beard*
 .. _wedPM0flg: 05-17-2017_wednesday/good_fifos_make_good_thread_neighbors__jonathan_beard__cppnow_05-17-2017.pdf
 .. |wedPM0flgV| replace:: (video)
-.. _wedPM0flgV: 
+.. _wedPM0flgV: https://youtu.be/pvp-QQD0Xx0
 .. |wedPM2flg| replace:: Postmodern Immutable Data Structures, *Juan Pedro Bolivar Puente*
 .. _wedPM2flg: 
 .. |wedPM2flgV| replace:: (video)
